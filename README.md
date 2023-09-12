@@ -1,1 +1,1 @@
-# games_of_chance
+#This is the data folder for the manuscript " The Cultural Evolution of Games of Chance – a historical investigation of Chinese gambling". Both Figure 2 and Figure 3 can be created by r_graphs file and the "data_combined.csv" file.
